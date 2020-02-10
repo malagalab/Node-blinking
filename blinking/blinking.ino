@@ -2,6 +2,7 @@
 // ver 1.2
 
 // mod creado rama
+// modificacion posterior
 #define LED_BUILTIN 2
 #define BUTTON_BUILTIN 0 
  
